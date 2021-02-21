@@ -1,4 +1,4 @@
-# Selenide + Allure + JUnit example
+# Selenide + Allure + JUnit example (PageObject)
 
 ## To run tests and generate Allure report:
 
