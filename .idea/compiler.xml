@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Guru99NewSelenide" />
-        <module name="Guru99Live" />
         <module name="selenide-allure-junit" />
         <module name="Guru99New" />
-        <module name="Guru99" />
         <module name="Guru99PageObject" />
       </profile>
     </annotationProcessing>
